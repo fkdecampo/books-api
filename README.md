@@ -68,7 +68,7 @@ node app.js
 API Base URL: http://localhost:3000
 Swagger Documentation: http://localhost:3000/api-docs  
 
-# Example Requests
+# Example Requests (Windows CMD)
 
 ### Create a Book using (POST)
 ```bash
